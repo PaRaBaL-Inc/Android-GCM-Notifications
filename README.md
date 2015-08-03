@@ -42,7 +42,7 @@
 5. Open push.php and replace they API key with the one you just generated
 
 
-<h4>USEAGE</h4>
+<h4>USAGE</h4>
 1. Your app needs to register the device if it has not already. This can be done with
 	```
 	private void registerInBackground()
@@ -87,7 +87,7 @@
 	The registration id will try to save under regid. You can change this.
 	Save this on the server. If you are unsure how to do this, use the library found under https://github.com/PaRaBaL-Inc/Android-Token-Authentication
 
-2.) To send a notification, simply call 
+2.) To send a notification, simply call
 	```
 	<?php
 
