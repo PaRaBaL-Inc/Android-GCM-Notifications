@@ -106,7 +106,7 @@ public class GcmIntentService extends IntentService
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(this)
         .setSmallIcon(R.drawable.ic_parabal_notification)
-        .setContentTitle("PaRaBaL Task Manager")
+        .setContentTitle("Your Title Here")
         .setStyle(new NotificationCompat.BigTextStyle()
         .bigText(msg))
         .setContentText(msg);
