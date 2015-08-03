@@ -87,7 +87,7 @@
 	The registration id will try to save under regid. You can change this.
 	Save this on the server. If you are unsure how to do this, use the library found under https://github.com/PaRaBaL-Inc/Android-Token-Authentication
 
-2.) To send a notification, simply call
+2. To send a notification, simply call
 	```
 	<?php
 
